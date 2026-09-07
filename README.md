@@ -38,8 +38,6 @@ The project focuses on business questions such as:
 
 ## 📊 Key KPIs
 
-The analysis can be used to track important retail metrics such as:
-
 - Total Sales
 - Total Profit
 - Total Orders
@@ -65,8 +63,6 @@ The analysis helps identify:
 - Trends that can support better inventory, sales, and marketing decisions
 
 ## 🚀 Business Recommendations
-
-Based on the analysis, a retail business can:
 
 - Focus on high-profit products and categories
 - Review products with consistently weak margins
